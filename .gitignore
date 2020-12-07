@@ -1,8 +1,9 @@
 /*
 !.gitignore
-!composer.json
+!.gitattributes
 !wp-content
 wp-content/*
 !wp-content/plugins/
 wp-content/plugins/*
 !wp-content/plugins/movie-world-collector
+!wp-content/plugins/composer.json
