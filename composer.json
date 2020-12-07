@@ -13,6 +13,6 @@
   ],
   "minimum-stability": "stable",
   "archive": {
-    "exclude": [".git", ".gitignore", "composer.json"]
+    "exclude": ["/.git", "/.gitignore", "/composer.json"]
   }
 }
