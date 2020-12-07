@@ -1,5 +1,6 @@
 /*
 !.gitignore
+!composer.json
 !wp-content
 wp-content/*
 !wp-content/plugins/
