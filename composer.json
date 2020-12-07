@@ -13,9 +13,6 @@
   ],
   "minimum-stability": "stable",
   "archive": {
-    "exclude": ["/.git",
-      "/.gitignore",
-      "/wp-content/plugins/composer.json"
-    ]
+    "exclude": ["/.git", "/.gitignore", "/composer.json"]
   }
 }
